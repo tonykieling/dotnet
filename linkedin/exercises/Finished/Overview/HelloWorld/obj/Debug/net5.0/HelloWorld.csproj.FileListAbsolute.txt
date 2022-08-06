@@ -1,0 +1,16 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/obj/Debug/net5.0/refint/HelloWorld.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Finished/Overview/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll

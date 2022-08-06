@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/bin/Debug/net6.0/VarsAndData.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/obj/Debug/net6.0/refint/VarsAndData.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/obj/Debug/net6.0/VarsAndData.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/Overview/VarsAndData/obj/Debug/net6.0/ref/VarsAndData.dll
