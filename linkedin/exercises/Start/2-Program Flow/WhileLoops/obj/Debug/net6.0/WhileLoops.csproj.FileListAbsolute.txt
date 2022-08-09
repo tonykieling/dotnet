@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/bin/Debug/net6.0/WhileLoops.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/obj/Debug/net6.0/refint/WhileLoops.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/obj/Debug/net6.0/WhileLoops.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/2-Program Flow/WhileLoops/obj/Debug/net6.0/ref/WhileLoops.dll
