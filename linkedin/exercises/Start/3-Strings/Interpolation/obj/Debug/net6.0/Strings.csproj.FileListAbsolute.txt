@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/obj/Debug/net6.0/Strings.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/obj/Debug/net6.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/obj/Debug/net6.0/Strings.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/obj/Debug/net6.0/Strings.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/obj/Debug/net6.0/Strings.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/bin/Debug/net6.0/Strings
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/bin/Debug/net6.0/Strings.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/bin/Debug/net6.0/Strings.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/bin/Debug/net6.0/Strings.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/bin/Debug/net6.0/Strings.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/obj/Debug/net6.0/Strings.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/obj/Debug/net6.0/refint/Strings.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/obj/Debug/net6.0/Strings.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/obj/Debug/net6.0/Strings.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Interpolation/obj/Debug/net6.0/ref/Strings.dll

@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/obj/Debug/net6.0/Parsing.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/obj/Debug/net6.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/obj/Debug/net6.0/Parsing.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/obj/Debug/net6.0/Parsing.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/obj/Debug/net6.0/Parsing.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/bin/Debug/net6.0/Parsing
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/bin/Debug/net6.0/Parsing.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/bin/Debug/net6.0/Parsing.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/bin/Debug/net6.0/Parsing.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/bin/Debug/net6.0/Parsing.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/obj/Debug/net6.0/Parsing.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/obj/Debug/net6.0/refint/Parsing.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/obj/Debug/net6.0/Parsing.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/obj/Debug/net6.0/Parsing.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Parsing/obj/Debug/net6.0/ref/Parsing.dll

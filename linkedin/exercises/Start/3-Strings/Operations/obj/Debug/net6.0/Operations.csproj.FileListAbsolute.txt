@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/obj/Debug/net6.0/Operations.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/obj/Debug/net6.0/Operations.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/obj/Debug/net6.0/Operations.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/obj/Debug/net6.0/Operations.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/obj/Debug/net6.0/Operations.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/bin/Debug/net6.0/Operations
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/bin/Debug/net6.0/Operations.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/bin/Debug/net6.0/Operations.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/bin/Debug/net6.0/Operations.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/bin/Debug/net6.0/Operations.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/obj/Debug/net6.0/Operations.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/obj/Debug/net6.0/refint/Operations.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/obj/Debug/net6.0/Operations.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/obj/Debug/net6.0/Operations.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/obj/Debug/net6.0/ref/Operations.dll

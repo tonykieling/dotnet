@@ -1,0 +1,5 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/bin/Debug/net6.0/publish/Operations
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/bin/Debug/net6.0/publish/Operations.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/bin/Debug/net6.0/publish/Operations.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/bin/Debug/net6.0/publish/Operations.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/Operations/bin/Debug/net6.0/publish/Operations.pdb
