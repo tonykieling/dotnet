@@ -1,5 +1,4 @@
 ﻿using System;
-// using System.Globalization;
 
 namespace ProgChallengeStart
 {
@@ -8,30 +7,39 @@ namespace ProgChallengeStart
         static void Main(string[] args)
         {
             // Choose a random number between 0 and 20
-            // int theNumber = new Random().Next(20);
+            int theNumber = new Random().Next(20);
 
             // Print the game greeting and instructions
             Console.WriteLine("Let's Play 'Guess the Number'!");
             Console.WriteLine("I'm thinking of a number between 0 and 20.");
             Console.WriteLine("Enter your guess, or -1 to give up.");
-/*
-            // int newNumber = int.Parse(-2, NumberStyles.Number);
-            int newNumber = 2;
+
+            int newNumber;
             int guesses = 0;
-            // while ( (newNumber != theNumber) || (newNumber == 999)) {
-            //     Console.WriteLine("What's your guess?" + theNumber);
-            //     string n = Console.ReadLine();
-            //     newNumber = int.Parse(n);
-            //     Console.WriteLine($"Nope, {((newNumber > theNumber) ? "lower" : "higher")} than that.");
-            //     guesses++;
-            // }
 
-            Console.WriteLine($"You got in {guesses} guesses! \\o/ {newNumber}");
-            // Keep track of the number of guesses and the current user guess
+            while (1 == 1) {
+                Console.WriteLine("\nWhat's your guess?" + theNumber);
+                string n = Console.ReadLine();
+                bool convertion = int.TryParse(n, out newNumber);
 
-            // Start the game and run until user quits or guesses correctly
-            // HINT: You'll need a way to convert the user's input to an integer
-            */
+                if (convertion) {
+                    guesses++;
+                    if (newNumber == theNumber) {
+                        Console.WriteLine($"   ---   You got in {guesses} guesses!   \\o/   ---\n\n");
+                        break;
+                    } else if ( newNumber == -1) {
+                        Console.WriteLine($"Alright, see ya. BTW, the guess number was {theNumber}.\n\n");
+                        break;
+                    } else {
+                        Console.WriteLine($"  => Nope, {((newNumber > theNumber) ? "lower" : "higher")} than that.");
+                        // continue;
+                    }
+                } else {
+                    Console.WriteLine("  XXX => Nah, it does not look like a number. Try it again!");
+                }
+            }
+
+    // Console.WriteLine("{0}", guesses > 3 ? "more than 3" : "nevermind");
             
         }
     }

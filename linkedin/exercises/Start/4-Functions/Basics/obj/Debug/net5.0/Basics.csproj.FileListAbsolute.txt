@@ -1,0 +1,16 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/obj/Debug/net5.0/Basics.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/obj/Debug/net5.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/obj/Debug/net5.0/Basics.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/obj/Debug/net5.0/Basics.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/obj/Debug/net5.0/Basics.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/bin/Debug/net5.0/Basics
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/bin/Debug/net5.0/Basics.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/bin/Debug/net5.0/Basics.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/bin/Debug/net5.0/Basics.runtimeconfig.dev.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/bin/Debug/net5.0/Basics.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/bin/Debug/net5.0/Basics.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/obj/Debug/net5.0/Basics.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/obj/Debug/net5.0/refint/Basics.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/obj/Debug/net5.0/Basics.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/obj/Debug/net5.0/Basics.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/Basics/obj/Debug/net5.0/ref/Basics.dll

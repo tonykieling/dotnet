@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/bin/Debug/net6.0/ProgChallengeStart
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/bin/Debug/net6.0/ProgChallengeStart.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/bin/Debug/net6.0/ProgChallengeStart.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/bin/Debug/net6.0/ProgChallengeStart.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/bin/Debug/net6.0/ProgChallengeStart.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/obj/Debug/net6.0/refint/ProgChallengeStart.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/obj/Debug/net6.0/ProgChallengeStart.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/3-Strings/ProgChallengeStart/obj/Debug/net6.0/ref/ProgChallengeStart.dll

@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOut.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/obj/Debug/net6.0/refint/RefAndOut.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOut.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/4-Functions/RefAndOutParams/obj/Debug/net6.0/ref/RefAndOut.dll
