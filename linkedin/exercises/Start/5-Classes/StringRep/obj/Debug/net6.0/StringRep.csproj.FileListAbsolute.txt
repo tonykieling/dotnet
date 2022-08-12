@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/bin/Debug/net6.0/StringRep
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/bin/Debug/net6.0/StringRep.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/bin/Debug/net6.0/StringRep.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/bin/Debug/net6.0/StringRep.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/bin/Debug/net6.0/StringRep.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/obj/Debug/net6.0/StringRep.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/obj/Debug/net6.0/StringRep.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/obj/Debug/net6.0/StringRep.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/obj/Debug/net6.0/StringRep.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/obj/Debug/net6.0/StringRep.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/obj/Debug/net6.0/StringRep.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/obj/Debug/net6.0/refint/StringRep.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/obj/Debug/net6.0/StringRep.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/obj/Debug/net6.0/StringRep.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/StringRep/obj/Debug/net6.0/ref/StringRep.dll

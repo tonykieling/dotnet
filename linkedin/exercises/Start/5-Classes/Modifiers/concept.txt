@@ -1,0 +1,12 @@
+
+    Access Modifiers
+- Public:
+  Method or class member can be accessed by any other code within your program.
+
+- Protected: 
+  Method or class member can be accessed ONLY by code within the class or a subclass.
+
+- Private: 
+  Method or class member can ONLY be accessed by code within the class definition itself.
+  This is the DEFAULT!
+  

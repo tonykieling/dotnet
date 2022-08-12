@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/obj/Debug/net6.0/Defining.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/obj/Debug/net6.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/obj/Debug/net6.0/Defining.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/obj/Debug/net6.0/Defining.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/obj/Debug/net6.0/Defining.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/bin/Debug/net6.0/Defining
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/bin/Debug/net6.0/Defining.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/bin/Debug/net6.0/Defining.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/bin/Debug/net6.0/Defining.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/bin/Debug/net6.0/Defining.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/obj/Debug/net6.0/Defining.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/obj/Debug/net6.0/refint/Defining.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/obj/Debug/net6.0/Defining.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/obj/Debug/net6.0/Defining.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/Defining/obj/Debug/net6.0/ref/Defining.dll
