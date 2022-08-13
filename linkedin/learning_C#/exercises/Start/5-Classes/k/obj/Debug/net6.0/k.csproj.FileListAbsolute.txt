@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/obj/Debug/net6.0/k.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/obj/Debug/net6.0/k.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/obj/Debug/net6.0/k.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/obj/Debug/net6.0/k.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/obj/Debug/net6.0/k.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/bin/Debug/net6.0/k
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/bin/Debug/net6.0/k.deps.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/bin/Debug/net6.0/k.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/bin/Debug/net6.0/k.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/bin/Debug/net6.0/k.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/obj/Debug/net6.0/k.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/obj/Debug/net6.0/refint/k.dll
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/obj/Debug/net6.0/k.pdb
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/obj/Debug/net6.0/k.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/exercises/Start/5-Classes/k/obj/Debug/net6.0/ref/k.dll
