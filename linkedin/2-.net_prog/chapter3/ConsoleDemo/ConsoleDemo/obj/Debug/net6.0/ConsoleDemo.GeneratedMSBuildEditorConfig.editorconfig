@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleDemo
-build_property.ProjectDir = C:\Users\Tony\dev\dotnet\linkedin\.net_prog\chapter3\ConsoleDemo\ConsoleDemo\
+build_property.ProjectDir = /home/tonyk/dev/dotnet/linkedin/2-.net_prog/chapter3/ConsoleDemo/ConsoleDemo/

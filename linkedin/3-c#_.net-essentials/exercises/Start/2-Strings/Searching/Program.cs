@@ -1,0 +1,37 @@
+﻿// LinkedIn Learning Course .NET Programming with C# by Joe Marini
+// Example file for searching string content
+
+string teststr = "The quick brown Fox jumps over the lazy Dog";
+
+// // TODO: Contains determines whether a string contains certain content
+// Console.WriteLine($"has 'dog' on it: {teststr.Contains("dog")}");
+// Console.WriteLine($"has 'dog' on it - ignore char case: {teststr.Contains("dog", StringComparison.CurrentCultureIgnoreCase)}");
+
+// // TODO: StartsWith and EndsWith determine if a string starts 
+// // or ends with a given test string
+// Console.WriteLine($"testsrts starts with 'the': {teststr.StartsWith("the")}");
+// Console.WriteLine($"testsrts starts with 'the' - no case: {teststr.StartsWith("the", StringComparison.CurrentCultureIgnoreCase)}");
+// Console.WriteLine($"testsrts ends with 'dog': {teststr.EndsWith("dog")}");
+// Console.WriteLine($"testsrts ends with 'dog' - no case: {teststr.EndsWith("dog", StringComparison.CurrentCultureIgnoreCase)}");
+
+// // TODO: IndexOf, LastIndexOf finds the index of a substring
+// Console.WriteLine($"{teststr.IndexOf("The")}");
+// Console.WriteLine($"{teststr.IndexOf("the", StringComparison.CurrentCultureIgnoreCase)}");
+// Console.WriteLine($"{teststr.LastIndexOf("the")}");
+
+
+// TODO: Determining empty, null, or whitespace
+string? str1 = null;
+string str2 = "   ";
+string str21 = "";
+string str3 = String.Empty;
+
+Console.WriteLine($"{String.IsNullOrEmpty(str1)}");
+Console.WriteLine($"{String.IsNullOrEmpty(str2)}");
+Console.WriteLine($"{String.IsNullOrEmpty(str2.Trim())}");
+Console.WriteLine($"{String.IsNullOrEmpty(str21)}");
+Console.WriteLine($"{String.IsNullOrWhiteSpace(str2)}");
+Console.WriteLine($"{String.IsNullOrWhiteSpace(str21)}");
+Console.WriteLine($"{String.IsNullOrWhiteSpace(str3)}");
+Console.WriteLine($"{String.IsNullOrWhiteSpace(str1)}");
+

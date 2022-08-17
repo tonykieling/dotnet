@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/obj/Debug/net6.0/Manipulation.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/obj/Debug/net6.0/Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/obj/Debug/net6.0/Manipulation.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/obj/Debug/net6.0/Manipulation.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/obj/Debug/net6.0/Manipulation.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/bin/Debug/net6.0/Manipulation
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/bin/Debug/net6.0/Manipulation.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/bin/Debug/net6.0/Manipulation.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/bin/Debug/net6.0/Manipulation.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/bin/Debug/net6.0/Manipulation.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/obj/Debug/net6.0/Manipulation.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/obj/Debug/net6.0/refint/Manipulation.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/obj/Debug/net6.0/Manipulation.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/obj/Debug/net6.0/Manipulation.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Manipulation/obj/Debug/net6.0/ref/Manipulation.dll

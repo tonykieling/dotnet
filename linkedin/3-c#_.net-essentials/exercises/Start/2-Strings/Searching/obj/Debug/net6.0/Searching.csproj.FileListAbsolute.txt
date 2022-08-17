@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/bin/Debug/net6.0/Searching
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/bin/Debug/net6.0/Searching.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/bin/Debug/net6.0/Searching.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/bin/Debug/net6.0/Searching.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/bin/Debug/net6.0/Searching.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/obj/Debug/net6.0/Searching.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/obj/Debug/net6.0/Searching.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/obj/Debug/net6.0/Searching.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/obj/Debug/net6.0/Searching.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/obj/Debug/net6.0/Searching.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/obj/Debug/net6.0/Searching.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/obj/Debug/net6.0/refint/Searching.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/obj/Debug/net6.0/Searching.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/obj/Debug/net6.0/Searching.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/2-Strings/Searching/obj/Debug/net6.0/ref/Searching.dll

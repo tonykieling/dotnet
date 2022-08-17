@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/bin/Debug/net6.0/GarbageCollect
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/bin/Debug/net6.0/GarbageCollect.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/bin/Debug/net6.0/GarbageCollect.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/bin/Debug/net6.0/GarbageCollect.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/bin/Debug/net6.0/GarbageCollect.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/obj/Debug/net6.0/refint/GarbageCollect.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/obj/Debug/net6.0/GarbageCollect.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/Overview/GarbageCollect/obj/Debug/net6.0/ref/GarbageCollect.dll
