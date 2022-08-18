@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/bin/Debug/net6.0/FormatNumbers
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/bin/Debug/net6.0/FormatNumbers.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/bin/Debug/net6.0/FormatNumbers.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/bin/Debug/net6.0/FormatNumbers.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/bin/Debug/net6.0/FormatNumbers.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/obj/Debug/net6.0/refint/FormatNumbers.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/obj/Debug/net6.0/FormatNumbers.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatNumbers/obj/Debug/net6.0/ref/FormatNumbers.dll

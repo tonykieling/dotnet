@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/obj/Debug/net6.0/FormatDates.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/obj/Debug/net6.0/FormatDates.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/obj/Debug/net6.0/FormatDates.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/obj/Debug/net6.0/FormatDates.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/obj/Debug/net6.0/FormatDates.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/bin/Debug/net6.0/FormatDates
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/bin/Debug/net6.0/FormatDates.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/bin/Debug/net6.0/FormatDates.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/bin/Debug/net6.0/FormatDates.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/bin/Debug/net6.0/FormatDates.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/obj/Debug/net6.0/FormatDates.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/obj/Debug/net6.0/refint/FormatDates.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/obj/Debug/net6.0/FormatDates.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/obj/Debug/net6.0/FormatDates.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/FormatDates/obj/Debug/net6.0/ref/FormatDates.dll

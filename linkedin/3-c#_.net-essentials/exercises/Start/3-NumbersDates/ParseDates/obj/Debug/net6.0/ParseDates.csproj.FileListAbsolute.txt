@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/bin/Debug/net6.0/ParseDates
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/bin/Debug/net6.0/ParseDates.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/bin/Debug/net6.0/ParseDates.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/bin/Debug/net6.0/ParseDates.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/bin/Debug/net6.0/ParseDates.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/obj/Debug/net6.0/refint/ParseDates.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/obj/Debug/net6.0/ParseDates.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/ParseDates/obj/Debug/net6.0/ref/ParseDates.dll

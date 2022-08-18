@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/bin/Debug/net6.0/ParseNumbers
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/bin/Debug/net6.0/ParseNumbers.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/bin/Debug/net6.0/ParseNumbers.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/bin/Debug/net6.0/ParseNumbers.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/bin/Debug/net6.0/ParseNumbers.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/obj/Debug/net6.0/ParseNumbers.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/obj/Debug/net6.0/ParseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/obj/Debug/net6.0/ParseNumbers.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/obj/Debug/net6.0/ParseNumbers.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/obj/Debug/net6.0/ParseNumbers.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/obj/Debug/net6.0/ParseNumbers.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/obj/Debug/net6.0/refint/ParseNumbers.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/obj/Debug/net6.0/ParseNumbers.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/obj/Debug/net6.0/ParseNumbers.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Finished/NumbersDates/ParseNumbers/obj/Debug/net6.0/ref/ParseNumbers.dll

@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/bin/Debug/net6.0/DateTimeClass
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/bin/Debug/net6.0/DateTimeClass.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/bin/Debug/net6.0/DateTimeClass.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/bin/Debug/net6.0/DateTimeClass.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/bin/Debug/net6.0/DateTimeClass.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/obj/Debug/net6.0/refint/DateTimeClass.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/obj/Debug/net6.0/DateTimeClass.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/3-NumbersDates/DateTimeClass/obj/Debug/net6.0/ref/DateTimeClass.dll
