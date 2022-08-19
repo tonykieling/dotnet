@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/bin/Debug/net6.0/Challenge
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/bin/Debug/net6.0/Challenge.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/bin/Debug/net6.0/Challenge.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/bin/Debug/net6.0/Challenge.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/bin/Debug/net6.0/Challenge.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/obj/Debug/net6.0/Challenge.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/obj/Debug/net6.0/Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/obj/Debug/net6.0/Challenge.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/obj/Debug/net6.0/Challenge.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/obj/Debug/net6.0/Challenge.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/obj/Debug/net6.0/Challenge.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/obj/Debug/net6.0/refint/Challenge.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/obj/Debug/net6.0/Challenge.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/obj/Debug/net6.0/Challenge.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Challenge/obj/Debug/net6.0/ref/Challenge.dll

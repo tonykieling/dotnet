@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/obj/Debug/net6.0/Replacing.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/obj/Debug/net6.0/Replacing.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/obj/Debug/net6.0/Replacing.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/obj/Debug/net6.0/Replacing.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/obj/Debug/net6.0/Replacing.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/bin/Debug/net6.0/Replacing
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/bin/Debug/net6.0/Replacing.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/bin/Debug/net6.0/Replacing.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/bin/Debug/net6.0/Replacing.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/bin/Debug/net6.0/Replacing.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/obj/Debug/net6.0/Replacing.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/obj/Debug/net6.0/refint/Replacing.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/obj/Debug/net6.0/Replacing.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/obj/Debug/net6.0/Replacing.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Replacing/obj/Debug/net6.0/ref/Replacing.dll

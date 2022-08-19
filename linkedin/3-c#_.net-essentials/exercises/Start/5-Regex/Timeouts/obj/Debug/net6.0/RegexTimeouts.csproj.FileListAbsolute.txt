@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/bin/Debug/net6.0/RegexTimeouts
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/bin/Debug/net6.0/RegexTimeouts.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/bin/Debug/net6.0/RegexTimeouts.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/bin/Debug/net6.0/RegexTimeouts.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/bin/Debug/net6.0/RegexTimeouts.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/obj/Debug/net6.0/refint/RegexTimeouts.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/obj/Debug/net6.0/RegexTimeouts.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/5-Regex/Timeouts/obj/Debug/net6.0/ref/RegexTimeouts.dll
