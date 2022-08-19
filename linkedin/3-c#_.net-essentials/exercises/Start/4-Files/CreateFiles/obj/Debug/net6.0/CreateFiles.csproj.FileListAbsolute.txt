@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/bin/Debug/net6.0/CreateFiles
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/bin/Debug/net6.0/CreateFiles.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/bin/Debug/net6.0/CreateFiles.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/bin/Debug/net6.0/CreateFiles.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/bin/Debug/net6.0/CreateFiles.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/obj/Debug/net6.0/CreateFiles.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/obj/Debug/net6.0/CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/obj/Debug/net6.0/CreateFiles.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/obj/Debug/net6.0/CreateFiles.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/obj/Debug/net6.0/CreateFiles.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/obj/Debug/net6.0/CreateFiles.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/obj/Debug/net6.0/refint/CreateFiles.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/obj/Debug/net6.0/CreateFiles.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/obj/Debug/net6.0/CreateFiles.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/CreateFiles/obj/Debug/net6.0/ref/CreateFiles.dll

@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/bin/Debug/net6.0/Directories
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/bin/Debug/net6.0/Directories.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/bin/Debug/net6.0/Directories.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/bin/Debug/net6.0/Directories.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/bin/Debug/net6.0/Directories.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/obj/Debug/net6.0/Directories.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/obj/Debug/net6.0/Directories.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/obj/Debug/net6.0/Directories.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/obj/Debug/net6.0/Directories.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/obj/Debug/net6.0/Directories.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/obj/Debug/net6.0/Directories.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/obj/Debug/net6.0/refint/Directories.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/obj/Debug/net6.0/Directories.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/obj/Debug/net6.0/Directories.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/Directories/obj/Debug/net6.0/ref/Directories.dll

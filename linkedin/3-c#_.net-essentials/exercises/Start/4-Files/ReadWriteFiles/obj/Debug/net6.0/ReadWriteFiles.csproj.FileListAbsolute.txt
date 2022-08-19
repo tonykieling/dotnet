@@ -1,0 +1,15 @@
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.csproj.AssemblyReference.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.AssemblyInfoInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.AssemblyInfo.cs
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.csproj.CoreCompileInputs.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.deps.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.runtimeconfig.json
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/bin/Debug/net6.0/ReadWriteFiles.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/obj/Debug/net6.0/refint/ReadWriteFiles.dll
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.pdb
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/obj/Debug/net6.0/ReadWriteFiles.genruntimeconfig.cache
+/home/tonyk/dev/dotnet/linkedin/3-c#_.net-essentials/exercises/Start/4-Files/ReadWriteFiles/obj/Debug/net6.0/ref/ReadWriteFiles.dll
