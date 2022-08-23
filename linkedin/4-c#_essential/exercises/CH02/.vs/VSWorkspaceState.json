@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\01",
+    "\\01\\Begin",
+    "\\01\\Begin\\LinkedIn.Essentials",
+    "\\01\\Begin\\LinkedIn.Essentials\\LinkedIn.Essentials",
+    "\\01\\Begin\\LinkedIn.Essentials\\LinkedIn.Essentials\\bin",
+    "\\01\\End\\LinkedIn.Essentials",
+    "\\01\\End\\LinkedIn.Essentials\\LinkedIn.Essentials",
+    "\\01\\End\\LinkedIn.Essentials\\LinkedIn.Essentials\\bin"
+  ],
+  "SelectedNode": "\\01\\Begin\\LinkedIn.Essentials\\LinkedIn.Essentials\\LinkedIn.Essentials.csproj",
+  "PreviewInSolutionExplorer": false
+}

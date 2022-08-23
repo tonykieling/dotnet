@@ -1,0 +1,5 @@
+https://www.linkedin.com/learning/c-sharp-essential-training-1-types-and-control-flow
+
+
+install dotnet on Ubuntu 22.04:
+https://askubuntu.com/questions/1422947/why-dont-any-of-these-methods-work-for-installing-net-core-sdk-runtime-on-22
