@@ -8,15 +8,18 @@ public interface IPerson {
 }
 
 //classes - reference types
-public class Employee : IPerson {
-    //public Employee()
-    //{}
+public class Employee : IPerson
+{
+    public Employee() {
+        Id = 5;
+    }
     public Employee(string firstName, string lastName, 
         int empId = 0)
     {
         LastName = lastName;
         FirstName = firstName;
-        Id = empId;
+        //Id = empId;
+        EmployeeId = empId;
     }
     public string LastName { get; set; } 
     public int Id { get; set; } 
@@ -39,6 +42,11 @@ public class Manager : Employee, IPerson
 //structs - value types
 public struct Age
 {
+    public Age(DateTime dob, int years)
+    {
+        BirthDate = dob;
+        YearsOld = years;
+    }
     public DateTime BirthDate { get; set; }
     public int YearsOld { get; set; }
 }
@@ -56,6 +64,10 @@ public struct VendorContact : IPerson {
 //records (C# 9)
 public record Customer : IPerson
 {
+    public Customer() {}
+    public Customer(string fName) {
+        FirstName = fName;
+    }
     public string LastName { get; set; }
     public int Id { get; set; }
     public Age Age { get; set; }

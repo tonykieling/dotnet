@@ -36,7 +36,10 @@ public class Manager : Employee, IPerson
 {
     public Manager(string firstName, string lastName) : base(firstName, lastName)
     {}
-    public int NumberOfDirectReports { get; set; }
+    public void SetReports(int numberOfReports) {
+        NumberOfDirectReports = numberOfReports;
+    }
+    public int NumberOfDirectReports { get; private set; }
 }
 
 //structs - value types
@@ -78,6 +81,11 @@ public record Customer : IPerson
 
 public record PremiereCustomer : Customer
 {
+    public PremiereCustomer() {}
+    public PremiereCustomer(byte cLevel)
+    {
+        CustomerLevel = cLevel;
+    }
     public byte CustomerLevel { get; init; }
 }
 

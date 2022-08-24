@@ -1,5 +1,4 @@
 ﻿namespace LinkedIn.Essentials;
-
 public interface IPerson
 {
     public string FirstName { get; set; }
