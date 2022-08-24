@@ -8,5 +8,7 @@ e.FirstName = "Hello";
 JsonSerializer s = new JsonSerializer();
 s.Serialize(Console.Out, e);
 
+//string server = Constants.CONFIG_DB_NAME;
+//Console.WriteLine(server);
 
 Console.WriteLine(e.FirstName);

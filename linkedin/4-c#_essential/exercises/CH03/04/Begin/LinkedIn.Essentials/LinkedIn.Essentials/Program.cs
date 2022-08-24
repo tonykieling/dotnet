@@ -1,9 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using LinkedIn.Essentials;
+using LE = LinkedIn.Essentials;
 //using System;
 using Newtonsoft.Json;
+using LET = LinkedIn.Essentials.Types;
 
-Employee e = new Manager();
+LE.Employee e = new LE.Manager();
 e.FirstName = "Hello";
 JsonSerializer s = new JsonSerializer();
 s.Serialize(Console.Out, e);

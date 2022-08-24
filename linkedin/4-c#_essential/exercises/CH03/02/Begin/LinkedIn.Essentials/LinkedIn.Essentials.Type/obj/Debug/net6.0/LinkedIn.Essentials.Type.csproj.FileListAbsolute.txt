@@ -1,0 +1,12 @@
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\bin\Debug\net6.0\LinkedIn.Essentials.Type.deps.json
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\bin\Debug\net6.0\LinkedIn.Essentials.Type.dll
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\bin\Debug\net6.0\LinkedIn.Essentials.Type.pdb
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\obj\Debug\net6.0\LinkedIn.Essentials.Type.csproj.AssemblyReference.cache
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\obj\Debug\net6.0\LinkedIn.Essentials.Type.GeneratedMSBuildEditorConfig.editorconfig
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\obj\Debug\net6.0\LinkedIn.Essentials.Type.AssemblyInfoInputs.cache
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\obj\Debug\net6.0\LinkedIn.Essentials.Type.AssemblyInfo.cs
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\obj\Debug\net6.0\LinkedIn.Essentials.Type.csproj.CoreCompileInputs.cache
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\obj\Debug\net6.0\LinkedIn.Essentials.Type.dll
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\obj\Debug\net6.0\refint\LinkedIn.Essentials.Type.dll
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\obj\Debug\net6.0\LinkedIn.Essentials.Type.pdb
+K:\dotnet\linkedin\4-c#_essential\exercises\CH03\02\Begin\LinkedIn.Essentials\LinkedIn.Essentials.Type\obj\Debug\net6.0\ref\LinkedIn.Essentials.Type.dll

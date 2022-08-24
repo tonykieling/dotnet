@@ -51,6 +51,7 @@ public class ShiftWorker : Employee
     }
     public new bool IsActive()
     {
+        string t = Constants.TEST;
         Console.WriteLine("Shiftworker active");
         return false;
     }

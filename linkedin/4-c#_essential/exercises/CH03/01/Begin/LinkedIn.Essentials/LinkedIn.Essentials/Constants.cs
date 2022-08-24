@@ -1,4 +1,6 @@
 ﻿namespace LinkedIn.Essentials;
+//namespace AnotherOne; // --- MUST BE ONLY ONE namespace definition per file
+
 static class Constants
 {
     private static string connectionString;

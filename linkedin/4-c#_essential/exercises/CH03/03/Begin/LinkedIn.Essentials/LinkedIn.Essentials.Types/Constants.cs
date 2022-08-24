@@ -5,6 +5,7 @@
         private static string connectionString;
         public static readonly string CONFIG_SERVER_NAME = "TargetServer";
         public const string CONFIG_DB_NAME = "DatabaseName";
+        public const string TEST = "Test";
 
         public static int MyProperty { get; set; }
         public static DateTime GetDateTimeFromDateOnly(DateOnly input)
