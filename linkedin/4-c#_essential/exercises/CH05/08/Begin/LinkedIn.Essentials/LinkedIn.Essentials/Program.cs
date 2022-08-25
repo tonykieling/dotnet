@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using LinkedIn.Essentials;
+using System.Diagnostics.CodeAnalysis;
 
 string input = null;
 int definiteInt;
@@ -16,8 +17,11 @@ Console.WriteLine($"Age is: {definiteInt}");
 Console.WriteLine(PadAndTrim(input, 15, '0'));
 
 
-static string PadAndTrim(string input, int length, char padChar)
+static string PadAndTrim([AllowNull]string input, int length, char padChar)
 {
-    return input?.Trim()?.PadLeft(length, padChar);
+    if (input == null)
+        return String.Empty.PadLeft(length, padChar);
+    else
+        return input.Trim().PadLeft(length, padChar);
 }
 

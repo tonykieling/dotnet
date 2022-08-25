@@ -40,7 +40,10 @@ public abstract class Employee : IPerson
         return current > StartDate && DateTime.Now < EndDate;
     }
 }
-public enum ShiftDays
+
+//public enum ShiftDays
+//[Flags] public enum ShiftDays
+public enum ShiftDays : short
 {
     Sunday = 1,
     Monday = 2,
@@ -49,7 +52,9 @@ public enum ShiftDays
     Wednesday = 8,
     Thursday = 16,
     Friday = 32,
-    Saturday = 64
+    Weekday = 62,
+    Saturday = 64,
+    Weekend = 65
 }
 public class ShiftWorker : Employee
 {

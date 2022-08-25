@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KcSu164I+EOFq8Ty1pac4DakwiRqcNXNEwSnIQdKsOORBFzGOd70ydtQibPPliBwdxdvogB+9VDWTq4jgq4hxQ==",
+  "success": true,
+  "projectFilePath": "K:\\dotnet\\linkedin\\4-c#_essential\\exercises\\CH05\\03\\Begin\\LinkedIn.Essentials\\LinkedIn.Essentials\\LinkedIn.Essentials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tony\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -41,8 +41,21 @@ public abstract class Employee : IPerson
     }
 }
 
+public enum ShiftDays {
+    Sunday = 1,
+    Monday = 2,
+    //Sunday and Monday = 3
+    Tuesday = 4,
+    Wednesday = 8,
+    Thursday = 16,
+    Friday = 32,
+    Weekday = 62,
+    Weekend = 65,
+    Saturday = 64,
+}
 public class ShiftWorker : Employee
 {
+    public ShiftDays  DaysAvailable { get; set; }
     public TimeOnly ShiftStartTime { get; set; }
     public override int EmployeeId { get => 1; }
 

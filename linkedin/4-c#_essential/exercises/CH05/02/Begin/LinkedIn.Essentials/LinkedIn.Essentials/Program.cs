@@ -3,7 +3,11 @@ using LinkedIn.Essentials;
 
 ShiftWorker d = new ShiftWorker() { FirstName = "Dynamic", 
     LastName = "Worker" };
-d.DaysAvailable = ShiftDays.Wednesday;
+//d.DaysAvailable = ShiftDays.Wednesday | ShiftDays.Tuesday;
+//d.DaysAvailable = ShiftDays.Saturday | ShiftDays.Sunday;
+//d.DaysAvailable = ShiftDays.Monday | ShiftDays.Tuesday | ShiftDays.Wednesday | ShiftDays.Thursday | ShiftDays.Friday;
+d.DaysAvailable = ShiftDays.Weekday | ShiftDays.Weekend;
+
 
 
 Console.WriteLine(d.DaysAvailable);
