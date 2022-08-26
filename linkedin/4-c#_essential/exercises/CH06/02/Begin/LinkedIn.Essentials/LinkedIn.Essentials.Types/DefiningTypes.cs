@@ -49,7 +49,7 @@ public enum ShiftDays : short
     Tuesday = 4,
     Wednesday = 8,
     Thursday = 16,
-    Friday = 32,
+    FridayXXX = 32,
     Weekdays = 63,
     Saturday = 64,
     Weekend = 65

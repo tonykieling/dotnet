@@ -65,16 +65,28 @@ IPerson mgr = new Manager { FirstName = "Manager", LastName = "Worker", NumberOf
 Console.WriteLine(GetPersonDetails(sw));
 Console.WriteLine(GetPersonDetails(mgr));
 
+//int k = 1;
+//if (k is 1)
+//    Console.WriteLine("===> sw is ShiftWorker");
+
 static string GetPersonDetails(IPerson p)
 {
-    //ShiftWorker? swv = p as ShiftWorker;
-    if (p is ShiftWorker swv)
+    ////ShiftWorker? swv = p as ShiftWorker;
+    //if (p is ShiftWorker swv)
+    //{
+    //    return $"{swv.FirstName} {swv.LastName}: {swv.StartDate}";
+    //}
+    //else if (p is Manager mgr)
+    //{
+    //    return $"{mgr.FirstName} {mgr.LastName} Reports: {mgr.NumberOfDirectReports}";
+    //}
+    //return String.Empty;
+    string result = p switch
     {
-        return $"{swv.FirstName} {swv.LastName}: {swv.StartDate}";
-    }
-    else if (p is Manager mgr)
-    {
-        return $"{mgr.FirstName} {mgr.LastName} Reports: {mgr.NumberOfDirectReports}";
-    }
-    return String.Empty;
+        ShiftWorker swv => $" it is ShiftWorker: {swv.FirstName}",
+        //Manager mng => $"Boss: {mng.LastName}",
+        Manager => $"Boss: {p.LastName}",
+        _ => "Neither of Shift worker nor Manager"
+    };
+    return result;
 }

@@ -14,7 +14,7 @@ definiteInt = age ?? 17;
 //definiteInt = age != null ? age.Value : 17;
 
 //Console.WriteLine($"Age is: {definiteInt}");
-//Console.WriteLine(PadAndTrim(input, 15, '0'));
+Console.WriteLine(PadAndTrim(input, 15, '8'));
 
 //var shiftDay = GetShiftDays((DayOfWeek)17);
 //Console.WriteLine(shiftDay);
@@ -41,11 +41,18 @@ static string PadAndTrim([AllowNull]string input, int length, char padChar)
     {
         switch(padChar)
         {
-            case ' ':
-            case '|':
+            //case ' ':
+            //case '|':
+            //    return input.Trim().PadLeft(length, padChar);
+            //case '0':
+            //case '9':
+            //    return input.Trim().PadRight(length, padChar);
+
+            //case >= 'a' and <= 'z':
+            //case >= 'A' and <= 'Z': //same as
+            case (>= 'a' and <= 'z') or (>= 'A' and <= 'Z'):
                 return input.Trim().PadLeft(length, padChar);
-            case '0':
-            case '9':
+            case >= '0' and <= '9':
                 return input.Trim().PadRight(length, padChar);
             default:
                 Console.WriteLine("No match found for pad character");

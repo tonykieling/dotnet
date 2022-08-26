@@ -15,7 +15,29 @@ definiteInt = age ?? 17;
 
 Console.WriteLine($"Age is: {definiteInt}");
 Console.WriteLine(PadAndTrim(input, 15, '0'));
+A();
 
+var shiftDay = GetShiftDays(DateTime.Now.DayOfWeek);
+Console.WriteLine($"Today is: {shiftDay}");
+
+static void A()
+{
+    Console.WriteLine("inside AAAAAAAAAAAA");
+}
+
+static ShiftDays GetShiftDays(DayOfWeek day) => day switch
+{
+    DayOfWeek.Monday => ShiftDays.Monday,
+    DayOfWeek.Tuesday => ShiftDays.Tuesday,
+    DayOfWeek.Wednesday => ShiftDays.Wednesday,
+    DayOfWeek.Thursday => ShiftDays.Thursday,
+    DayOfWeek.Friday => ShiftDays.FridayXXX,
+    DayOfWeek.Saturday => ShiftDays.Saturday,
+    DayOfWeek.Sunday => ShiftDays.Sunday,
+    
+    //This is the default for this type of swith, which can also be used within a function.
+    _ => throw new ArgumentException("Invalid day of week provided.")
+};
 
 static string PadAndTrim([AllowNull]string input, int length, char padChar)
 {
@@ -25,19 +47,34 @@ static string PadAndTrim([AllowNull]string input, int length, char padChar)
     }
     else if (input != null && input.Length <= length)
     {
-        switch(padChar)
+        // switch expression
+        return padChar switch
         {
-            case ' ':
-            case '|':
-                return input.Trim().PadLeft(length, padChar);
-            case '0':
-            case '9':
-                return input.Trim().PadRight(length, padChar);
-            default:
-                Console.WriteLine("No match found for pad character");
-                break;
-        }
-        return input.Trim().PadLeft(length, padChar);
+            ' ' => input.Trim().PadLeft(length, padChar),
+            '0' => input.Trim().PadRight(length, padChar),
+            _ => throw new Exception("Nope, something wrong")
+        };
+        //string msg = padChar switch
+        //{
+        //    '0' => "it's zero",
+        //    'X' => "XXXXXXXXXX",
+        //    _ => "any BUT zero"
+        //};
+        //Console.WriteLine($"padChar is equal to: {msg}");
+     
+        //switch (padChar)
+        //{
+        //    case ' ':
+        //    case '|':
+        //        return input.Trim().PadLeft(length, padChar);
+        //    case '0':
+        //    case '9':
+        //        return input.Trim().PadRight(length, padChar);
+        //    default:
+        //        Console.WriteLine("No match found for pad character");
+        //        break;
+        //}
+        //return input.Trim().PadLeft(length, padChar);
     }
     else
     {
