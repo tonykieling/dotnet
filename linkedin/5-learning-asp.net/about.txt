@@ -1,0 +1,5 @@
+https://www.linkedin.com/learning/learning-asp-dot-net-2
+
+*** this course is out dated, considering a previous version of .net as hard to follow because the current Visual Code I am using is not the same.
+Tough, started learning about ASP.NET / MVC
+Also, the exercises files are way to fat ( > 3.2 GB).
