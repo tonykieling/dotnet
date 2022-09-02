@@ -95,5 +95,29 @@ namespace HPlusSport.API.Controllers
 
             return product;
         }
+
+        [HttpDelete]
+        [Route("Delete")]
+        public async Task<ActionResult> DeleteMany([FromQuery] int[] ids)
+        {
+            foreach (int id in ids)
+                Console.WriteLine($"Ids: {id}");
+
+            var products = new List<Product>();
+            foreach(int id in ids)
+            {
+                var product = await _context.Products.FindAsync(id);
+                Console.WriteLine($"product is: {product}");
+                if (product == null)
+                    return NotFound();
+
+                products.Add(product);
+            }
+
+            _context.RemoveRange(products);
+            await _context.SaveChangesAsync();
+            
+            return Ok(products);
+        }
     }
 }

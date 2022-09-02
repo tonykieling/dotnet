@@ -21,6 +21,8 @@ namespace HPlusSport.API.Controllers
         [HttpGet]
         public async Task<ActionResult> GetAllProducts()
         {
+            Console.WriteLine(" -- Inside GET All");
+            Console.WriteLine($"ModelState: {ModelState}");
             return Ok(await _context.Products.ToArrayAsync());
         }
 
@@ -33,6 +35,20 @@ namespace HPlusSport.API.Controllers
                 return NotFound();
             }
             return Ok(product);
+        }
+
+        [HttpPost]
+        public async Task<ActionResult<Product>> PostProduct(Product product)
+        {
+            Console.WriteLine($" -- Post received: {product}");
+            _context.Products.Add(product);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction(
+                "PostProduct",
+                new { id = product.Id},
+                product
+             );
         }
     }
 }

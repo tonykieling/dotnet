@@ -19,5 +19,10 @@ namespace HPlusSport.API.Models
         public int CategoryId { get; set; }
         [JsonIgnore]
         public virtual Category? Category { get; set; }
+
+        public override string ToString()
+        {
+            return($"Id: {Id}, Name: {Name}, Price: {Price}");
+        }
     }
 }

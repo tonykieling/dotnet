@@ -10,8 +10,10 @@ namespace HPlusSport.API.Controllers
     public class ProductsController : ControllerBase
     {
         private readonly ShopContext _context;
+
         public ProductsController(ShopContext context)
         {
+            Console.WriteLine("Inside ProductsController Constructor");
             _context = context;
             _context.Database.EnsureCreated();
         }
@@ -32,7 +34,7 @@ namespace HPlusSport.API.Controllers
         //}
         public async Task<ActionResult> GetAllProducts()
         {
-            Console.WriteLine("within GETTTTTTTTTT#");
+            Console.WriteLine("within GETTTTTTTTTT#\n");
             return Ok(await _context.Products.ToArrayAsync());
         }
 
@@ -43,10 +45,16 @@ namespace HPlusSport.API.Controllers
         public async Task<ActionResult> GetProduct(int id)
         {
             var product = await _context.Products.FindAsync(id);
-            Console.WriteLine($"product: { product}");
+            Console.WriteLine($"product: { product}\n");
             if (product == null)
                 return NotFound();
             return Ok(product);
+        }
+        [HttpPost]
+        public ActionResult Asd()
+        {
+            Console.WriteLine("POST!\n");
+            return BadRequest("SOrry :/");
         }
     }
 }
