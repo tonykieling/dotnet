@@ -1,0 +1,15 @@
+K:\dotnet\w3\bin\Debug\net6.0\self-study.exe
+K:\dotnet\w3\bin\Debug\net6.0\self-study.deps.json
+K:\dotnet\w3\bin\Debug\net6.0\self-study.runtimeconfig.json
+K:\dotnet\w3\bin\Debug\net6.0\self-study.dll
+K:\dotnet\w3\bin\Debug\net6.0\self-study.pdb
+K:\dotnet\w3\obj\Debug\net6.0\self-study.csproj.AssemblyReference.cache
+K:\dotnet\w3\obj\Debug\net6.0\self-study.GeneratedMSBuildEditorConfig.editorconfig
+K:\dotnet\w3\obj\Debug\net6.0\self-study.AssemblyInfoInputs.cache
+K:\dotnet\w3\obj\Debug\net6.0\self-study.AssemblyInfo.cs
+K:\dotnet\w3\obj\Debug\net6.0\self-study.csproj.CoreCompileInputs.cache
+K:\dotnet\w3\obj\Debug\net6.0\self-study.dll
+K:\dotnet\w3\obj\Debug\net6.0\refint\self-study.dll
+K:\dotnet\w3\obj\Debug\net6.0\self-study.pdb
+K:\dotnet\w3\obj\Debug\net6.0\self-study.genruntimeconfig.cache
+K:\dotnet\w3\obj\Debug\net6.0\ref\self-study.dll
