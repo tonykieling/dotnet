@@ -1,5 +1,8 @@
 ﻿
 using selfStudy;
+using selfStudy.Game;
+using selfStudy.MyTypes;
+using selfStudy.OOP;
 using selfStudy.types;
 
 //ArrayClass ma = new ArrayClass();
@@ -8,4 +11,10 @@ using selfStudy.types;
 
 //Generics Generics = new Generics();
 
-MyTypes _ = new();
+//MyTypes _ = new();
+//Casting _ = new();
+//PlayAGame _ = new();
+OOP oop = new();
+OOP.Test();
+
+Console.Beep();

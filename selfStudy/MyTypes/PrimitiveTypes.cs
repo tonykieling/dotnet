@@ -6,6 +6,11 @@ namespace selfStudy.types
         public PrimitiveTypes()
         {
             // it looks like the primitive types are value types
+            /* bool, char, 
+             * byte, sbyte, short, ushort, int, uint, nint, nuint, long, ulong, 
+             * float, double, decimal
+             * struct, enum, tuples
+             */
             Console.WriteLine(" \n--- PrimitiveTypes constructor ---");
             //Number - Integer
             sbyte sb = -1;
