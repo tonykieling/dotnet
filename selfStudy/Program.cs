@@ -15,6 +15,6 @@ using selfStudy.types;
 //Casting _ = new();
 //PlayAGame _ = new();
 OOP oop = new();
-OOP.Test();
+//OOP.Test();
 
-Console.Beep();
+//Console.Beep();
