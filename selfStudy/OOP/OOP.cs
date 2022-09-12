@@ -8,13 +8,15 @@ namespace selfStudy.OOP
             $"instead of functions.\n" +
             $"The way the softwares are design consider objects, the logic is within that objects.\n" +
             $"It contains 4 basic principles:\n" +
-            $"\t- Abstraction: It is the way a software is organized, abstracted." +
+            $"\t- Abstraction: It is the way a software is organized, abstracted.\n" +
+            $"In C# it can be reached by the keyword interface and also abstract. \n" +
             $"It is the foundation that supports the others pillars.\n" +
             $"In C#, the key words Abstract and Interface (for classes) are used. Abstract for method is possible, a well.\n" +
             $"\t- Inheritance: It is the property of share features and pass them away from parents to child components," +
             $"they may be allowed to change or add new features.\n" +
             $"It is a great way to reuse code.\n" +
             $"\t- Encapsulation: It is when some class' details are hidden. It is a way to show only the necessary parts.\n" +
+            $"C# uses modifiers such as public, protected and privated to implement this feature." +
             $"\t- Polymorphism: It is the capacity of having the same method with different signatures " +
             $"(return or received data) - same action with different data.";
 
@@ -35,16 +37,16 @@ namespace selfStudy.OOP
         const string WhatIsAConstructor = $"# CONSTRUCTOR is the method that runs automatically when a class is instanciated.\n" +
             $"That means, it will be executed when an object is created.\n" +
             $"It is used to set initial states or receive parameters.";
-        
+
         // Parametrs and array params
         // DIFF BTW (int[] list) X (params int[] list) X (string[] args)
-        const string Params = $"# PARAMS ........"
+        const string Params = $"# PARAMS ........";
         
         // Modifiers - Static, internal, 
         const string WhatisAModifier = $"# MODIFIERS are .......";
         
         // Overloading vs Overriden vs Overwrite
-        const string Overs = $"# Overload .......\N" +
+        const string Overs = $"# Overload .......\n" +
             $" Overriden is ........\n" +
             $" Overwrtien is ............";
         
@@ -72,7 +74,8 @@ namespace selfStudy.OOP
             for (int i = 0; i < Concepts.Length; i++)
             {
                 Console.WriteLine(Concepts[i] + "\n");
-                Console.ReadKey();
+                if (Console.ReadKey().Key == ConsoleKey.Q)
+                    break;
             }
 
         }

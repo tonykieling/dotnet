@@ -1,0 +1,16 @@
+
+____________________________________________________________
+Name       | Date         | Points in a row | Points total %
+joe doe    | Sep 12, 2022 | 3               | 10%
+none       | -            | -               | -
+none       | -            | -               | -
+none       | -            | -               | -
+none       | -            | -               | -
+
+
+- format as above
+- order by date
+- limit of 5 lines
+- when a new Points in a row OR Points total is reached (greater than one of the 5 ones), the player has the option to insert their name.
+- when a new Points in a row is reached (greater than one of the 5 ones), it gets inserted.
+- when a new Total % is reached (greater than one of the 5 ones), it gets inserted.

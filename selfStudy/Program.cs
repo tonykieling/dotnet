@@ -1,5 +1,6 @@
 ﻿
 using selfStudy;
+using selfStudy.Files;
 using selfStudy.Game;
 using selfStudy.MyTypes;
 using selfStudy.OOP;
@@ -13,8 +14,8 @@ using selfStudy.types;
 
 //MyTypes _ = new();
 //Casting _ = new();
-//PlayAGame _ = new();
-OOP oop = new();
+PlayAGame _ = new();
+//OOP oop = new();
 //OOP.Test();
-
+//Files f = new();
 //Console.Beep();

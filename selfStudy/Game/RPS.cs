@@ -8,6 +8,10 @@ namespace selfStudy.Game
         string machine = "";
         int number123;
         string playerName = "";
+        int playerWinsCounter = 0;
+        int playerWinsCounterInARow = 0;
+        int matchCounter = 0;
+        
 
         // the constructor is optional
         //public RPS() { Console.WriteLine("starting new Rock, Paper, Scissors game...."); }
@@ -45,11 +49,12 @@ namespace selfStudy.Game
                     player = "";
                     machine = "";
                     Console.Write("(q to quit) Choose your option (ROCK(1), PAPER(2), OR SCISSORS(3)): ");
-                    player = Console.ReadLine().ToLower();
+                    player = Console.ReadLine().ToLower().Trim();
                     if (player == "1" || player == "2" || player == "3" ||
                         player == "rock" || player == "paper" || player == "scissors")
                         break;
-                    if (player == "q") return;
+                    if (player == "q")
+                        leaveGame();
                 }
 
                 // it gets machine's choice
@@ -59,7 +64,9 @@ namespace selfStudy.Game
                 if (player == "1") player = "rock";
                 else if (player == "2") player = "paper";
                 else if (player == "3") player = "scissors";
-                Console.Write($"  # {playerName} is: {player} - Machine is: {machine}\t==>   ");
+
+                Console.Write($"  @@@ {playerName} is: {player} - Machine is: {machine}\t==>   ");
+                matchCounter++;
 
                 if (player == machine)
                 {
@@ -67,12 +74,19 @@ namespace selfStudy.Game
                     continue;
                 }
 
+                bool playersWinner = true;
                 switch (player)
                 {
                     case "rock":
-                        Console.WriteLine((machine == "scissors")
+                        if (machine == "scissors")
+                            playerWinsCounter++;
+                        else
+                            playersWinner = false;
+
+                        Console.WriteLine(playersWinner
                             ? $"{playerName} has just won!!"
                             : "Machine is the Winner!");
+                        Console.WriteLine($"***playerWinsCounter: { playerWinsCounter}");
                         break;
 
                     case "paper":
@@ -92,6 +106,17 @@ namespace selfStudy.Game
                 }
                 Console.WriteLine("\n");
             }
+        }
+
+        private void leaveGame()
+        {
+            Console.WriteLine("Leaving game!!");
+            Console.WriteLine($"You played {matchCounter} times.");
+            Console.WriteLine($"You won {playerWinsCounter} times");
+            if (playerWinsCounter > 0)
+                Console.WriteLine($"{((Convert.ToDouble(playerWinsCounter) / Convert.ToDouble(matchCounter)) * 100):C0}% of victory");
+
+            Environment.Exit(0);
         }
 
         //public void PrintWinners()
