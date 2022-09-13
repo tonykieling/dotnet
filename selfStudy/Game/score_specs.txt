@@ -1,11 +1,11 @@
 
-____________________________________________________________
-Name       | Date         | Points in a row | Points total %
-joe doe    | Sep 12, 2022 | 3               | 10%
-none       | -            | -               | -
-none       | -            | -               | -
-none       | -            | -               | -
-none       | -            | -               | -
+______________________________________________________________________________________________
+Name       | Date         | Points in a row | Total % points | Total % without losing in a row
+joe doe    | Sep 12, 2022 | 3               | 10%			 | 20%
+none       | -            | -               | -				 |
+none       | -            | -               | -				 |
+none       | -            | -               | -				 |
+none       | -            | -               | -				 |
 
 
 - format as above
@@ -14,3 +14,8 @@ none       | -            | -               | -
 - when a new Points in a row OR Points total is reached (greater than one of the 5 ones), the player has the option to insert their name.
 - when a new Points in a row is reached (greater than one of the 5 ones), it gets inserted.
 - when a new Total % is reached (greater than one of the 5 ones), it gets inserted.
+
+- also considering how many times not losting (which counts wins and draws)
+- for the new score gets recorded in case of same points 
+(in any of the three categories: wins in a row, total % of wins and Total % of not loses in a row),
+the one with more matches will be considered.

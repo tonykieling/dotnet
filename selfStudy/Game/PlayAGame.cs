@@ -5,9 +5,14 @@ namespace selfStudy.Game
     {
         public PlayAGame()
         {
-            Console.WriteLine("################### PlayAGame's Constructor");
-            RPS newGame = new RPS();
-            newGame.Run();
+            //Console.WriteLine("################### PlayAGame's Constructor");
+            while (true)
+            {
+                RPS newGame = new RPS();
+                bool tf = 
+                    newGame.Run();
+                if (!tf) break;
+            }
         }
 
 
